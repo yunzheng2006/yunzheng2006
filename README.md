@@ -40,9 +40,6 @@ Network engineer, full-stack developer, and Linux operator.
 I run **Yunzheng Lab** and **AS204921**.  
 我營運 **Yunzheng Lab（芸峥實驗室）** 與 **AS204921**。
 
-I like clean infrastructure, stable systems, and practical tools.  
-我喜歡乾淨的基礎設施、穩定的系統，以及實用的小工具。
-
 ---
 
 ## Profile / 個人資訊
@@ -86,21 +83,6 @@ I like clean infrastructure, stable systems, and practical tools.
 <img src="https://streak-stats.demolab.com?user=YunZheng&theme=tokyonight&hide_border=true&background=00000000&ring=93C5FD&fire=C4B5FD&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8" />
 
 </div>
-
----
-
-## Notes / 小記
-
-- I build small tools for networks and systems.  
-  我會為網路與系統打造小工具。
-
-- I enjoy homelab, Linux, and stable routing.  
-  我喜歡 homelab、Linux，以及穩定的路由。
-
-- Tiny packets, big routes.  
-  小小封包，長長路由。
-
----
 
 ## Links / 連結
 

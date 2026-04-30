@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:6366f1&text=YunZheng%20%7C%20%E8%8A%B8%E5%B3%A5&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Network%20Engineer%20%C2%B7%20Full-stack%20Developer%20%C2%B7%20AS204921&descSize=15&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=0:fdf2f8,50:e0f2fe,100:dcfce7&text=YunZheng%20%C2%B7%20%E8%8A%B8%E5%B3%A5&fontColor=334155&fontSize=42&fontAlignY=38&desc=Network%20Engineer%20%C2%B7%20Full-stack%20Developer%20%C2%B7%20AS204921%20Operator&descSize=14&descAlignY=61" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+YunZheng+%28%E8%8A%B8%E5%B3%A5%29;Pronouns%3A+they%2Fthem;Building+networks%2C+systems%2C+and+small+tools;Operator+of+Yunzheng+Lab+and+AS204921" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=21&pause=1000&color=64748B&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+YunZheng+%28%E8%8A%B8%E5%B3%A5%29+%E2%9C%A8;Pronouns%3A+they%2Fthem;I+build+networks%2C+systems%2C+and+small+tools;Operator+of+Yunzheng+Lab+and+AS204921" />
 
 <br /><br />
 
 <a href="https://yunzheng.space">
-  <img src="https://img.shields.io/badge/Website-yunzheng.space-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-yunzheng.space-e0f2fe?style=for-the-badge&logo=firefoxbrowser&logoColor=475569&labelColor=f8fafc" />
 </a>
 <a href="https://yunzheng.space/network">
-  <img src="https://img.shields.io/badge/Network-AS204921-4f46e5?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-AS204921-dcfce7?style=for-the-badge&logo=cloudflare&logoColor=475569&labelColor=f8fafc" />
 </a>
-<img src="https://img.shields.io/badge/Pronouns-they%2Fthem-f472b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Languages-zh--TW%20%7C%20en--GB-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pronouns-they%2Fthem-fce7f3?style=for-the-badge&logoColor=475569&labelColor=f8fafc" />
+<img src="https://img.shields.io/badge/Languages-zh--TW%20%7C%20en--GB-fef3c7?style=for-the-badge&logoColor=475569&labelColor=f8fafc" />
 
 </div>
 
@@ -23,10 +23,10 @@
 
 ### Hello, I’m YunZheng / 芸峥.
 
-I’m a network engineer and full-stack developer interested in clean infrastructure, practical systems, and calm little dashboards.
+I’m a network engineer and full-stack developer who likes clean infrastructure, quiet systems, and simple little dashboards.
 
 I operate **Yunzheng Lab** and **AS204921**, an educational and research network.  
-Most of my work is around networking, Linux operations, backend systems, and small tools that make infrastructure easier to manage.
+Most of my work is around networking, Linux operations, backend systems, and tools that make infrastructure easier to manage.
 
 ```yaml
 name: "YunZheng / 芸峥"
@@ -52,24 +52,16 @@ network:
 
 ---
 
-### Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,php,python,html,css,js,nginx,git,github&theme=dark" />
-</p>
-
----
-
 ### GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YunZheng&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunZheng&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YunZheng&show_icons=true&theme=default&hide_border=true&title_color=64748b&text_color=64748b&icon_color=93c5fd&bg_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunZheng&layout=compact&theme=default&hide_border=true&title_color=64748b&text_color=64748b&bg_color=ffffff" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=YunZheng&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YunZheng&theme=default&hide_border=true&ring=93c5fd&fire=f9a8d4&currStreakLabel=64748b" />
 
 </div>
 
@@ -87,10 +79,10 @@ network:
 <div align="center">
 
 <a href="https://yunzheng.space">
-  <img src="https://img.shields.io/badge/Personal%20Website-yunzheng.space-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Personal%20Website-yunzheng.space-e0f2fe?style=for-the-badge&labelColor=f8fafc&color=e0f2fe" />
 </a>
 <a href="https://yunzheng.space/network">
-  <img src="https://img.shields.io/badge/Network-AS204921-4f46e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network-AS204921-dcfce7?style=for-the-badge&labelColor=f8fafc&color=dcfce7" />
 </a>
 
 <br /><br />
